@@ -1,5 +1,6 @@
 # 💫 About Me:
-i am Andrii, 20 years old, like anime, games and javascript<br>2 years of experience
+I am Andrii 20 years old Fullstack developer with 2 years of experience 
+Like anime, games and javascript<br>
 
 
 ## 🌐 Socials:
