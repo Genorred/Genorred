@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Andrii 20 years old Fullstack developer with 2 years of experience <br>
+I am Mykhailo 17 years old Fullstack developer with 2 years of experience <br>
 Like anime, games and javascript<br>
 
 
