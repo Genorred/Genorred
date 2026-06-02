@@ -13,4 +13,6 @@ NestJS, Express.js, tRPC<br />
 &emsp;Prisma, Sequelize, Redis, Firebase, RabbitMQ, Elasticsearch<br />
 &emsp;Vercel, Google Cloud, Netlify, Docker
 
-LazyVim, **Linux**, niri, noctalia 🦅🦅👈
+## 💢Setup
+
+**LazyVim**, Linux, niri, noctalia 🦅🦅👈
