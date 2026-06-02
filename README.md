@@ -13,5 +13,4 @@ NestJS, Express.js, tRPC<br />
 &emsp;Prisma, Sequelize, Redis, Firebase, RabbitMQ, Elasticsearch<br />
 &emsp;Vercel, Google Cloud, Netlify, Docker
 
-### 🛠 IDEs & Tools  
-**JetBrains** • **LazyVim** • **CursorAI**
+**LazyVim**, Linux, niri, noctalia 🦅🦅👈
