@@ -1,4 +1,4 @@
-# ^\>рХ_-^ About Me:
+## '-⇩-' About Me:
 ////////////////｡ﾟ ( *>艸<)ﾟ｡(≧∀≦❁)///  <<br />
 I am Мишаня 18 yearsOld ///////////  <<br />
 Like anime, games and javascript///  <<br />
